@@ -3,7 +3,7 @@ import os
 
 class wd:
     def __init__(self,site,browser,enviroment,directory):
-		self.site = site
+        self.site = site
         self.browser = browser
         self.enviroment = enviroment
         self.directory = directory
