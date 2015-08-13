@@ -4,7 +4,7 @@
 	This is a support library for Selenium using Python. It is meant to just streamline some of the basic functionality into something you can quickly script
 </p>
 
-<h2>Setup Required<h2>
+<h2>Setup Required</h2>
 
 <p>
 1. You will need to have Python 2.7. installed (https://www.python.org/)  Right now Python 3.0 + won't work with Selenium.
