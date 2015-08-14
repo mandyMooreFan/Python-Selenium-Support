@@ -20,5 +20,4 @@ class wd:
             self.driver = webdriver.Firefox()
 
     def open(self):
-        print self.site
         self.driver.get(self.site)
