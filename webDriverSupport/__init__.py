@@ -1,2 +1,2 @@
-from webDriverSetup import *
-from support import *
+from webDriverSupport.webDriverSetup import *
+from webDriverSupport.support import *
