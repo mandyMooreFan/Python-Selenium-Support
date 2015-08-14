@@ -22,8 +22,8 @@
 
 Add your code to __main__.py"
 
-<h2> Example <h2>
-```
+<h2> Example </h2>
+```python
 google = wd('http://www.google.com',"NONE")
 google.open()
 
