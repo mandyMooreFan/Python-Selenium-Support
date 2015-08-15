@@ -34,4 +34,4 @@ searchbar.submit()
 google.driver.quit()
 ```
 
-For more information and examples visit "http://idkmybffmark.com/2015/08/using-selenium-with-python/"
+For more information and examples visit: http://idkmybffmark.com/2015/08/using-selenium-with-python/
