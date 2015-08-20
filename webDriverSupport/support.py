@@ -27,3 +27,9 @@ class support:
         self.xpath_wait_clickable()
         self.element = self.wd.find_element_by_xpath(self.element)
         self.element.click()
+
+    def xpath_send_keys(self,text):
+        self.text = text
+        self.xpath_wait_clickable()
+        self.element = self.wd.find_element_by_xpath(self.element)
+        self.element.send_keys(text)
