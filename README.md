@@ -22,16 +22,4 @@
 
 Add your code to __main__.py"
 
-<h2> Example </h2>
-```python
-google = wd('http://www.google.com',"NONE")
-google.open()
-
-searchbar = support(google,'//*[@id="lst-ib"]').xpath_element()
-searchbar.send_keys("idkmybffmark.com")
-searchbar.submit()
-
-google.driver.quit()
-```
-
 For more information and examples visit: http://idkmybffmark.com/2015/08/using-selenium-with-python/
